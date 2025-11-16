@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+button {
+    cursor: pointer;
+}
+
+@theme {
+    --color-gray: #8F8F8F;
+    --color-gray-btn: #F2F2F2;
+}
+
+@font-face {
+  font-family: 'ClashGrotesk';
+  src: url('/fonts/ClashGrotesk_Complete/Fonts/TTF/ClashGrotesk-Variable.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+body {
+    font-family: 'ClashGrotesk', sans-serif;
+}
