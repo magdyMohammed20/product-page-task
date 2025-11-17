@@ -10,7 +10,7 @@ function ReviewSection() {
         {
             id: 1,
             user_name: "Darrell Steward",
-            user_image: "../../../../public/product-1.png",
+            user_image: "/public/product-1.png",
             date: "July 2, 2020 03:29 PM",
             rating: 5,
             review: "This is amazing product I have.",
@@ -20,7 +20,7 @@ function ReviewSection() {
         {
             id: 2,
             user_name: "Darlene Robertson",
-            user_image: "../../../../public/product-1.png",
+            user_image: "/public/product-1.png",
             date: "July 2, 2020 1:04 PM",
             rating: 5,
             review: "This is amazing product I have.",
@@ -30,7 +30,7 @@ function ReviewSection() {
         {
             id: 3,
             user_name: "Kathryn Murphy",
-            user_image: "../../../../public/product-1.png",
+            user_image: "/public/product-1.png",
             date: "July 2, 2020 03:29 PM",
             rating: 5,
             review: "This is amazing product I have.",
@@ -40,7 +40,7 @@ function ReviewSection() {
         {
             id: 4,
             user_name: "Ronald Richards",
-            user_image: "../../../../public/product-1.png",
+            user_image: "/public/product-1.png",
             date: "July 7, 2020 10:14 AM",
             rating: 5,
             review: "This is amazing product I have.",
