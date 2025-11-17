@@ -7,7 +7,7 @@ function Header() {
             </div>
             <nav className="container border-b-gray border-b pb-6 md:pb-8 border-dashed mx-auto px-5 flex items-center justify-between my-6 md:my-8">
                 <a className="inline-flex" href="/">
-                    <img className="w-[150px] md:w-[170px]" src="/public/logo.png" alt="" />
+                    <img className="w-[150px] md:w-[170px]" src="/logo.png" alt="" />
                 </a>
                 <div className="flex gap-2.5">
                     <ul className="flex items-center font-medium">

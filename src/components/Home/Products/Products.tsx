@@ -14,7 +14,7 @@ function Products({ title, border = false }: Props) {
             short_description: "Long Sleeve Utility Shirt, Navy, 6",
             rate: "4.8",
             sold: "1.238",
-            image: "/public/logo.png"
+            image: "/logo.png"
         },
         {
             id: 2,
@@ -23,7 +23,7 @@ function Products({ title, border = false }: Props) {
             short_description: "Long Sleeve Utility Shirt, Navy, 6",
             rate: "4.8",
             sold: "1.238",
-            image: "/public/product-1.png"
+            image: "/product-1.png"
         },
         {
             id: 3,
@@ -32,7 +32,7 @@ function Products({ title, border = false }: Props) {
             short_description: "Long Sleeve Utility Shirt, Navy, 6",
             rate: "4.8",
             sold: "1.238",
-            image: "/public/product-1.png"
+            image: "/product-1.png"
         },
         {
             id: 4,
@@ -41,7 +41,7 @@ function Products({ title, border = false }: Props) {
             short_description: "Long Sleeve Utility Shirt, Navy, 6",
             rate: "4.8",
             sold: "1.238",
-            image: "/public/product-1.png"
+            image: "/product-1.png"
         },
         {
             id: 5,
@@ -50,7 +50,7 @@ function Products({ title, border = false }: Props) {
             short_description: "Long Sleeve Utility Shirt, Navy, 6",
             rate: "4.8",
             sold: "1.238",
-            image: "/public/product-1.png"
+            image: "/product-1.png"
         }
     ]
 

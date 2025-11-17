@@ -5,7 +5,7 @@ function Footer() {
       <div className="container mx-auto px-5">
         <div className="grid  grid-cols-2  lg:grid-cols-5 gap-8 py-8 border-b border-dashed border-[#C4C4C4] mb-5">
           <div className="col-span-2">
-            <a href="/"><img src="/public/logo.png" /></a>
+            <a href="/"><img src="/logo.png" /></a>
             <div className="border-b mt-10 flex max-w-80 ">
               <input type="text" placeholder="Get latest offers to your inbox" className="border-0 w-full outline-none pb-1.5" />
               <button className="bg-black px-6 py-3 rounded-lg">
